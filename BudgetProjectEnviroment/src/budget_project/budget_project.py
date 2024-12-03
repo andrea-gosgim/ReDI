@@ -1,5 +1,3 @@
-from unicodedata import category
-
 from budget import Category, Budget
 
 
